@@ -1,0 +1,904 @@
+[
+    {
+      "ProjectUUID": "bb469f99-6e8e-4100-ad66-e0c3ad0db03b",
+      "ProjectName": "codeLabFeaturedRollToTheGoal.projectName",
+      "DASProjectName": "RollToTheGoal",
+      "VersionNum": "5",
+      "IsVertical": "true",
+      "FeaturedProjectDescription": "codeLabFeaturedRollToTheGoal.projectDescription",
+      "FeaturedProjectInstructions": "codeLabFeaturedRollToTheGoal.projectInstructions",
+      "FeaturedProjectImageName": "RollToTheGoal",
+      "FeaturedProjectBackgroundColor": "yellow",
+      "FeaturedProjectTitleTextColor": "#ffffff",
+      "ProjectJSONFile": "roll_to_the_goal",
+      "StartDate": {
+          "Month": "4",
+          "Day": "3",
+          "Year": "2019"
+      }
+    },
+    {
+        "ProjectUUID": "42222c01-2da0-4c46-a17a-675b9f29162d",
+        "ProjectName": "codeLabFeaturedRoboGameShow.projectName",
+        "DASProjectName": "RoboGameShow",
+        "VersionNum": "5",
+        "IsVertical": "true",
+        "FeaturedProjectDescription": "codeLabFeaturedRoboGameShow.projectDescription",
+        "FeaturedProjectInstructions": "codeLabFeaturedRoboGameShow.projectInstructions",
+        "FeaturedProjectImageName": "RoboGameShow",
+        "FeaturedProjectBackgroundColor": "purple",
+        "FeaturedProjectTitleTextColor": "#ffffff",
+        "ProjectJSONFile": "robo_game_show",
+        "StartDate": {
+            "Month": "3",
+            "Day": "20",
+            "Year": "2019"
+        }
+    },
+    {
+        "ProjectUUID": "41fbc3be-6621-4d2d-a2c4-ae01bba9feff",
+        "ProjectName": "codeLabFeaturedLaserBattle.projectName",
+        "DASProjectName": "LaserBattle",
+        "VersionNum": "5",
+        "IsVertical": "true",
+        "FeaturedProjectDescription": "codeLabFeaturedLaserBattle.projectDescription",
+        "FeaturedProjectInstructions": "codeLabFeaturedLaserBattle.projectInstructions",
+        "FeaturedProjectImageName": "LaserBattle",
+        "FeaturedProjectBackgroundColor": "green",
+        "FeaturedProjectTitleTextColor": "#ffffff",
+        "ProjectJSONFile": "laser_battle",
+        "StartDate": {
+            "Month": "2",
+            "Day": "20",
+            "Year": "2019"
+        }
+    },
+    {
+        "ProjectUUID": "9b4691e6-8965-4a94-a868-1ca41f210e61",
+        "ProjectName": "codeLabFeaturedHaywire.projectName",
+        "DASProjectName": "Haywire",
+        "VersionNum": "5",
+        "IsVertical": "true",
+        "FeaturedProjectDescription": "codeLabFeaturedHaywire.projectDescription",
+        "FeaturedProjectInstructions": "codeLabFeaturedHaywire.projectInstructions",
+        "FeaturedProjectImageName": "Haywire",
+        "FeaturedProjectBackgroundColor": "purple",
+        "FeaturedProjectTitleTextColor": "#ffffff",
+        "ProjectJSONFile": "haywire",
+        "StartDate": {
+            "Month": "2",
+            "Day": "6",
+            "Year": "2019"
+        }
+    },
+    {
+        "ProjectUUID": "7c1c6017-ab99-470f-8e68-726d2c31d268",
+        "ProjectName": "codeLabFeaturedRoboRoadRage.projectName",
+        "DASProjectName": "RoboRoadRage",
+        "VersionNum": "5",
+        "IsVertical": "true",
+        "FeaturedProjectDescription": "codeLabFeaturedRoboRoadRage.projectDescription",
+        "FeaturedProjectInstructions": "codeLabFeaturedRoboRoadRage.projectInstructions",
+        "FeaturedProjectImageName": "RoboRoadRage",
+        "FeaturedProjectBackgroundColor": "purple",
+        "FeaturedProjectTitleTextColor": "#ffffff",
+        "ProjectJSONFile": "robo_road_rage",
+        "IsInvisible": "true"
+    },
+    {
+        "ProjectUUID": "200a8956-cfe8-46bb-880f-0062925244b9",
+        "ProjectName": "codeLabFeaturedPuzzlePalace.projectName",
+        "DASProjectName": "PuzzlePalace",
+        "VersionNum": "5",
+        "IsVertical": "true",
+        "FeaturedProjectDescription": "codeLabFeaturedPuzzlePalace.projectDescription",
+        "FeaturedProjectInstructions": "codeLabFeaturedPuzzlePalace.projectInstructions",
+        "FeaturedProjectImageName": "PuzzlePalace",
+        "FeaturedProjectBackgroundColor": "red",
+        "FeaturedProjectTitleTextColor": "#ffffff",
+        "ProjectJSONFile": "puzzle_palace",
+        "StartDate": {
+            "Month": "1",
+            "Day": "16",
+            "Year": "2019"
+        }
+    },
+    {
+        "ProjectUUID": "3b8ab084-08c0-4062-8b80-2c4dd537995a",
+        "ProjectName": "codeLabFeaturedTickTockBot.projectName",
+        "DASProjectName": "TickTockBot",
+        "VersionNum": "5",
+        "IsVertical": "true",
+        "FeaturedProjectDescription": "codeLabFeaturedTickTockBot.projectDescription",
+        "FeaturedProjectInstructions": "codeLabFeaturedTickTockBot.projectInstructions",
+        "FeaturedProjectImageName": "TickTockBot",
+        "FeaturedProjectBackgroundColor": "yellow",
+        "FeaturedProjectTitleTextColor": "#ffffff",
+        "ProjectJSONFile": "tick_tock_bot",
+        "StartDate": {
+            "Month": "1",
+            "Day": "9",
+            "Year": "2019"
+        }
+    },
+    {
+        "ProjectUUID": "e99d8772-cfec-47ed-8160-b594563f5c2a",
+        "ProjectName": "codeLabFeaturedTappyCozmo.projectName",
+        "DASProjectName": "TappyCozmo",
+        "VersionNum": "5",
+        "IsVertical": "true",
+        "FeaturedProjectDescription": "codeLabFeaturedTappyCozmo.projectDescription",
+        "FeaturedProjectInstructions": "codeLabFeaturedTappyCozmo.projectInstructions",
+        "FeaturedProjectImageName": "TappyCozmo",
+        "FeaturedProjectBackgroundColor": "purple",
+        "FeaturedProjectTitleTextColor": "#ffffff",
+        "ProjectJSONFile": "tappy_cozmo",
+        "StartDate": {
+            "Month": "1",
+            "Day": "2",
+            "Year": "2019"
+        }
+    },
+    {
+        "ProjectUUID": "8f541b25-b26b-4328-ba5b-3e0a27149926",
+        "ProjectName": "codeLabFeaturedRebounce.projectName",
+        "DASProjectName": "Rebounce",
+        "VersionNum": "5",
+        "IsVertical": "true",
+        "FeaturedProjectDescription": "codeLabFeaturedRebounce.projectDescription",
+        "FeaturedProjectInstructions": "codeLabFeaturedRebounce.projectInstructions",
+        "FeaturedProjectImageName": "Rebounce",
+        "FeaturedProjectBackgroundColor": "yellow",
+        "FeaturedProjectTitleTextColor": "#ffffff",
+        "ProjectJSONFile": "rebounce",
+        "StartDate": {
+            "Month": "12",
+            "Day": "26",
+            "Year": "2018"
+        }
+    },
+    {
+        "ProjectUUID": "f973c659-a3a6-4297-88c0-8df5c5acb411",
+        "ProjectName": "codeLabFeaturedScaringContest.projectName",
+        "DASProjectName": "ScaringContest",
+        "VersionNum": "5",
+        "IsVertical": "true",
+        "FeaturedProjectDescription": "codeLabFeaturedScaringContest.projectDescription",
+        "FeaturedProjectInstructions": "codeLabFeaturedScaringContest.projectInstructions",
+        "FeaturedProjectImageName": "ScaringContest",
+        "FeaturedProjectBackgroundColor": "red",
+        "FeaturedProjectTitleTextColor": "#ffffff",
+        "ProjectJSONFile": "scaring_contest",
+        "StartDate": {
+            "Month": "10",
+            "Day": "31",
+            "Year": "2018"
+        }
+    },
+    {
+        "ProjectUUID": "3f4d8cdd-24c6-4574-8dff-67b83d277984",
+        "ProjectName": "codeLabFeaturedTreadTrekker.projectName",
+        "DASProjectName": "TreadTrekker",
+        "VersionNum": "5",
+        "IsVertical": "true",
+        "FeaturedProjectDescription": "codeLabFeaturedTreadTrekker.projectDescription",
+        "FeaturedProjectInstructions": "codeLabFeaturedTreadTrekker.projectInstructions",
+        "FeaturedProjectImageName": "TreadTrekker",
+        "FeaturedProjectBackgroundColor": "green",
+        "FeaturedProjectTitleTextColor": "#ffffff",
+        "ProjectJSONFile": "tread_trekker",
+        "StartDate": {
+            "Month": "10",
+            "Day": "24",
+            "Year": "2018"
+        }
+    },
+    {
+        "ProjectUUID": "623b1709-6223-4d44-acec-a2f6aa1b6041",
+        "ProjectName": "codeLabFeaturedPoppinLocks.projectName",
+        "DASProjectName": "PoppinLocks",
+        "VersionNum": "4",
+        "IsVertical": "true",
+        "FeaturedProjectDescription": "codeLabFeaturedPoppinLocks.projectDescription",
+        "FeaturedProjectInstructions": "codeLabFeaturedPoppinLocks.projectInstructions",
+        "FeaturedProjectImageName": "PoppinLocks",
+        "FeaturedProjectBackgroundColor": "purple",
+        "FeaturedProjectTitleTextColor": "#ffffff",
+        "ProjectJSONFile": "poppin_locks",
+        "StartDate": {
+            "Month": "10",
+            "Day": "3",
+            "Year": "2018"
+        }
+    },
+    {
+        "ProjectUUID": "9f163cc9-94c0-4a66-906e-eea6c305e868",
+        "ProjectName": "codeLabFeaturedStackAttack.projectName",
+        "DASProjectName": "StackAttack",
+        "VersionNum": "4",
+        "IsVertical": "true",
+        "FeaturedProjectDescription": "codeLabFeaturedStackAttack.projectDescription",
+        "FeaturedProjectInstructions": "codeLabFeaturedStackAttack.projectInstructions",
+        "FeaturedProjectImageName": "StackAttack",
+        "FeaturedProjectBackgroundColor": "red",
+        "FeaturedProjectTitleTextColor": "#ffffff",
+        "ProjectJSONFile": "stack_attack",
+        "StartDate": {
+            "Month": "9",
+            "Day": "19",
+            "Year": "2018"
+        }
+    },
+    {
+        "ProjectUUID": "0e464c1a-ea5f-4ff7-9f06-f1b0a1dcbc35",
+        "ProjectName": "codeLabFeaturedCodeCracker.projectName",
+        "DASProjectName": "CodeCracker",
+        "VersionNum": "5",
+        "IsVertical": "true",
+        "FeaturedProjectDescription": "codeLabFeaturedCodeCracker.projectDescription",
+        "FeaturedProjectInstructions": "codeLabFeaturedCodeCracker.projectInstructions",
+        "FeaturedProjectImageName": "CodeCracker",
+        "FeaturedProjectBackgroundColor": "green",
+        "FeaturedProjectTitleTextColor": "#ffffff",
+        "ProjectJSONFile": "code_cracker",
+        "StartDate": {
+            "Month": "9",
+            "Day": "12",
+            "Year": "2018"
+        }
+    },
+    {
+        "ProjectUUID": "fa396c07-d541-40ae-9047-e9b337594324",
+        "ProjectName": "codeLabFeaturedBlasterTag.projectName",
+        "DASProjectName": "BlasterTag",
+        "VersionNum": "4",
+        "IsVertical": "true",
+        "FeaturedProjectDescription": "codeLabFeaturedBlasterTag.projectDescription",
+        "FeaturedProjectInstructions": "codeLabFeaturedBlasterTag.projectInstructions",
+        "FeaturedProjectImageName": "BlasterTag",
+        "FeaturedProjectBackgroundColor": "yellow",
+        "FeaturedProjectTitleTextColor": "#ffffff",
+        "ProjectJSONFile": "blaster_tag",
+        "StartDate": {
+            "Month": "9",
+            "Day": "5",
+            "Year": "2018"
+        }
+    },
+    {
+        "ProjectUUID": "febc6d65-ed01-437d-8cd7-d54377b03f1e",
+        "ProjectName": "codeLabFeaturedRoboshambo.projectName",
+        "DASProjectName": "Roboshambo",
+        "VersionNum": "4",
+        "IsVertical": "true",
+        "FeaturedProjectDescription": "codeLabFeaturedRoboshambo.projectDescription",
+        "FeaturedProjectInstructions": "codeLabFeaturedRoboshambo.projectInstructions",
+        "FeaturedProjectImageName": "Roboshambo",
+        "FeaturedProjectBackgroundColor": "orange",
+        "FeaturedProjectTitleTextColor": "#ffffff",
+        "ProjectJSONFile": "roboshambo",
+        "StartDate": {
+            "Month": "8",
+            "Day": "22",
+            "Year": "2018"
+        }
+    },
+    {
+        "ProjectUUID": "fc2b52ff-4911-41cb-b9c1-94a4acf2e0be",
+        "ProjectName": "codeLabFeaturedCubeTennis.projectName",
+        "DASProjectName": "CubeTennis",
+        "VersionNum": "4",
+        "IsVertical": "true",
+        "FeaturedProjectDescription": "codeLabFeaturedCubeTennis.projectDescription",
+        "FeaturedProjectInstructions": "codeLabFeaturedCubeTennis.projectInstructions",
+        "FeaturedProjectImageName": "CubeTennis",
+        "FeaturedProjectBackgroundColor": "orange",
+        "FeaturedProjectTitleTextColor": "#ffffff",
+        "ProjectJSONFile": "cube_tennis",
+        "StartDate": {
+            "Month": "8",
+            "Day": "15",
+            "Year": "2018"
+        }
+    },
+    {
+        "ProjectUUID": "047f2b43-ef38-4f09-9f3f-2320655772b1",
+        "ProjectName": "codeLabFeaturedCubeMixup.projectName",
+        "DASProjectName": "CubeMixup",
+        "VersionNum": "4",
+        "IsVertical": "true",
+        "FeaturedProjectDescription": "codeLabFeaturedCubeMixup.projectDescription",
+        "FeaturedProjectInstructions": "codeLabFeaturedCubeMixup.projectInstructions",
+        "FeaturedProjectImageName": "CubeMixup",
+        "FeaturedProjectBackgroundColor": "orange",
+        "FeaturedProjectTitleTextColor": "#ffffff",
+        "ProjectJSONFile": "cube_mixup",
+        "StartDate": {
+            "Month": "8",
+            "Day": "8",
+            "Year": "2018"
+        }
+    },
+    {
+        "ProjectUUID": "406bfdcf-eb6c-4648-bf85-538126a93b56",
+        "ProjectName": "codeLabFeaturedTreasureTrail.projectName",
+        "DASProjectName": "TreasureTrail",
+        "VersionNum": "4",
+        "IsVertical": "true",
+        "FeaturedProjectDescription": "codeLabFeaturedTreasureTrail.projectDescription",
+        "FeaturedProjectInstructions": "codeLabFeaturedTreasureTrail.projectInstructions",
+        "FeaturedProjectImageName": "TreasureTrail",
+        "FeaturedProjectBackgroundColor": "yellow",
+        "FeaturedProjectTitleTextColor": "#ffffff",
+        "ProjectJSONFile": "treasure_trail",
+        "StartDate": {
+            "Month": "8",
+            "Day": "1",
+            "Year": "2018"
+        }
+    },
+    {
+        "ProjectUUID": "19e7a012-1c2e-47e8-bfd5-5b7334227247",
+        "ProjectName": "codeLabFeaturedTwistTapRoll.projectName",
+        "DASProjectName": "TwistTapRoll",
+        "VersionNum": "4",
+        "IsVertical": "true",
+        "FeaturedProjectDescription": "codeLabFeaturedTwistTapRoll.projectDescription",
+        "FeaturedProjectInstructions": "codeLabFeaturedTwistTapRoll.projectInstructions",
+        "FeaturedProjectImageName": "TwistTapRoll",
+        "FeaturedProjectBackgroundColor": "purple",
+        "FeaturedProjectTitleTextColor": "#ffffff",
+        "ProjectJSONFile": "twist_tap_roll",
+        "StartDate": {
+            "Month": "7",
+            "Day": "18",
+            "Year": "2018"
+        }
+    },
+    {
+        "ProjectUUID": "4c7ed0c2-92f4-4af5-8889-65b2c4f727b5",
+        "ProjectName": "codeLabFeaturedTidalTap.projectName",
+        "DASProjectName": "TidalTap",
+        "VersionNum": "4",
+        "IsVertical": "true",
+        "FeaturedProjectDescription": "codeLabFeaturedTidalTap.projectDescription",
+        "FeaturedProjectInstructions": "codeLabFeaturedTidalTap.projectInstructions",
+        "FeaturedProjectImageName": "TidalTap",
+        "FeaturedProjectBackgroundColor": "orange",
+        "FeaturedProjectTitleTextColor": "#ffffff",
+        "ProjectJSONFile": "tidal_tap",
+        "StartDate": {
+            "Month": "6",
+            "Day": "27",
+            "Year": "2018"
+        }
+    },
+    {
+        "ProjectUUID": "4186fce3-db7c-487d-9ca4-0172f7d6d3a8",
+        "ProjectName": "codeLabFeaturedStareOff.projectName",
+        "DASProjectName": "StareOff",
+        "VersionNum": "4",
+        "IsVertical": "true",
+        "FeaturedProjectDescription": "codeLabFeaturedStareOff.projectDescription",
+        "FeaturedProjectInstructions": "codeLabFeaturedStareOff.projectInstructions",
+        "FeaturedProjectImageName": "StareOff",
+        "FeaturedProjectBackgroundColor": "purple",
+        "FeaturedProjectTitleTextColor": "#ffffff",
+        "ProjectJSONFile": "stare_off",
+        "StartDate": {
+            "Month": "6",
+            "Day": "20",
+            "Year": "2018"
+        }
+    },
+    {
+        "ProjectUUID": "b48083ed-fc5c-48a2-9159-6524a6bc9ec8",
+        "ProjectName": "codeLabFeaturedDadJokesBadJokes.projectName",
+        "DASProjectName": "DadJokesBadJokes",
+        "VersionNum": "4",
+        "IsVertical": "true",
+        "FeaturedProjectDescription": "codeLabFeaturedDadJokesBadJokes.projectDescription",
+        "FeaturedProjectInstructions": "codeLabFeaturedDadJokesBadJokes.projectInstructions",
+        "FeaturedProjectImageName": "DadJokesBadJokes",
+        "FeaturedProjectBackgroundColor": "red",
+        "FeaturedProjectTitleTextColor": "#11111",
+        "ProjectJSONFile": "dad_jokes_bad_jokes",
+        "StartDate": {
+            "Month": "6",
+            "Day": "13",
+            "Year": "2018"
+        },
+        "IsInvisible": "true"
+    },
+    {
+        "ProjectUUID": "c3197421-fb9b-4ca6-bfe7-f698edfee48c",
+        "ProjectName": "codeLabFeaturedCubeBlaster.projectName",
+        "DASProjectName": "CubeBlaster",
+        "VersionNum": "4",
+        "IsVertical": "true",
+        "FeaturedProjectDescription": "codeLabFeaturedCubeBlaster.projectDescription",
+        "FeaturedProjectInstructions": "codeLabFeaturedCubeBlaster.projectInstructions",
+        "FeaturedProjectImageName": "CubeBlaster",
+        "FeaturedProjectBackgroundColor": "orange",
+        "FeaturedProjectTitleTextColor": "#ffffff",
+        "ProjectJSONFile": "cube_blaster",
+        "StartDate": {
+            "Month": "6",
+            "Day": "6",
+            "Year": "2018"
+        }
+    },
+    {
+        "ProjectUUID": "39966c88-4fd6-4d97-a27d-ea601de87e33",
+        "ProjectName": "codeLabFeaturedNumberTap.projectName",
+        "DASProjectName": "NumberTap",
+        "VersionNum": "4",
+        "IsVertical": "true",
+        "FeaturedProjectDescription": "codeLabFeaturedNumberTap.projectDescription",
+        "FeaturedProjectInstructions": "codeLabFeaturedNumberTap.projectInstructions",
+        "FeaturedProjectImageName": "NumberTap",
+        "FeaturedProjectBackgroundColor": "yellow",
+        "FeaturedProjectTitleTextColor": "#ffffff",
+        "ProjectJSONFile": "number_tap",
+        "StartDate": {
+            "Month": "5",
+            "Day": "30",
+            "Year": "2018"
+        },
+        "IsInvisible": "true"
+    },
+    {
+        "ProjectUUID": "64e4c92a-1d09-4c66-b351-b97d65445979",
+        "ProjectName": "codeLabFeaturedJackpotBot.projectName",
+        "DASProjectName": "JackpotBot",
+        "VersionNum": "4",
+        "IsVertical": "true",
+        "FeaturedProjectDescription": "codeLabFeaturedJackpotBot.projectDescription",
+        "FeaturedProjectInstructions": "codeLabFeaturedJackpotBot.projectInstructions",
+        "FeaturedProjectImageName": "JackpotBot",
+        "FeaturedProjectBackgroundColor": "orange",
+        "FeaturedProjectTitleTextColor": "#ffffff",
+        "ProjectJSONFile": "jackpot_bot",
+        "StartDate": {
+            "Month": "5",
+            "Day": "23",
+            "Year": "2018"
+        }
+    },
+    {
+        "ProjectUUID": "e9ee13ff-a075-4e9a-90bb-0b765e81fa89",
+        "ProjectName": "codeLabFeaturedColorShuffle.projectName",
+        "DASProjectName": "ColorShuffle",
+        "VersionNum": "4",
+        "IsVertical": "true",
+        "FeaturedProjectDescription": "codeLabFeaturedColorShuffle.projectDescription",
+        "FeaturedProjectInstructions": "codeLabFeaturedColorShuffle.projectInstructions",
+        "FeaturedProjectImageName": "ColorShuffle",
+        "FeaturedProjectBackgroundColor": "orange",
+        "FeaturedProjectTitleTextColor": "#ffffff",
+        "ProjectJSONFile": "color_shuffle",
+        "StartDate": {
+            "Month": "5",
+            "Day": "16",
+            "Year": "2018"
+        }
+    },
+    {
+        "ProjectUUID": "e330af57-5191-4a1c-9e4e-5dd06d49b245",
+        "ProjectName": "codeLabFeaturedForYouMom.projectName",
+        "DASProjectName": "ForYouMom",
+        "VersionNum": "4",
+        "IsVertical": "true",
+        "FeaturedProjectDescription": "codeLabFeaturedForYouMom.projectDescription",
+        "FeaturedProjectInstructions": "codeLabFeaturedForYouMom.projectInstructions",
+        "FeaturedProjectImageName": "ForYouMom",
+        "FeaturedProjectBackgroundColor": "purple",
+        "FeaturedProjectTitleTextColor": "#ffffff",
+        "ProjectJSONFile": "for_you_mom",
+        "StartDate": {
+            "Month": "5",
+            "Day": "9",
+            "Year": "2018"
+        },
+        "IsInvisible": "true"
+    },
+    {
+        "ProjectUUID": "19d6e7e4-b818-49bf-bd33-2430220f99f0",
+        "ProjectName": "codeLabFeaturedComposeWithCozmo.projectName",
+        "DASProjectName": "ComposeWithCozmo",
+        "VersionNum": "4",
+        "IsVertical": "true",
+        "FeaturedProjectDescription": "codeLabFeaturedComposeWithCozmo.projectDescription",
+        "FeaturedProjectInstructions": "codeLabFeaturedComposeWithCozmo.projectInstructions",
+        "FeaturedProjectImageName": "ComposeWithCozmo",
+        "FeaturedProjectBackgroundColor": "red",
+        "FeaturedProjectTitleTextColor": "#ffffff",
+        "ProjectJSONFile": "compose_with_cozmo",
+        "StartDate": {
+            "Month": "5",
+            "Day": "2",
+            "Year": "2018"
+        },
+        "IsInvisible": "true"
+    },
+    {
+        "ProjectUUID": "b3f61bd9-075a-4726-8528-0ff7f022b996",
+        "ProjectName": "codeLabFeaturedPoetryJam.projectName",
+        "DASProjectName": "PoetryJam",
+        "VersionNum": "4",
+        "IsVertical": "true",
+        "FeaturedProjectDescription": "codeLabFeaturedPoetryJam.projectDescription",
+        "FeaturedProjectInstructions": "codeLabFeaturedPoetryJam.projectInstructions",
+        "FeaturedProjectImageName": "PoetryJam",
+        "FeaturedProjectBackgroundColor": "red",
+        "FeaturedProjectTitleTextColor": "#ffffff",
+        "ProjectJSONFile": "poetry_jam",
+        "StartDate": {
+            "Month": "4",
+            "Day": "25",
+            "Year": "2018"
+        },
+        "IsInvisible": "true"
+    },
+    {
+        "ProjectUUID": "58995258-5c09-4e47-8865-ada04811b366",
+        "ProjectName": "codeLabFeaturedCozmosGarden.projectName",
+        "DASProjectName": "CozmosGarden",
+        "VersionNum": "4",
+        "IsVertical": "true",
+        "FeaturedProjectDescription": "codeLabFeaturedCozmosGarden.projectDescription",
+        "FeaturedProjectInstructions": "codeLabFeaturedCozmosGarden.projectInstructions",
+        "FeaturedProjectImageName": "CozmosGarden",
+        "FeaturedProjectBackgroundColor": "yellow",
+        "FeaturedProjectTitleTextColor": "#ffffff",
+        "ProjectJSONFile": "cozmos_garden",
+        "StartDate": {
+            "Month": "4",
+            "Day": "20",
+            "Year": "2018"
+        }
+    },
+    {
+        "ProjectUUID": "9238bb68-e2e3-46c0-ad0e-d2f88a7f6bb4",
+        "ProjectName": "codeLabFeaturedConstellations.projectName",
+        "DASProjectName": "Constellations",
+        "VersionNum": "4",
+        "IsVertical": "true",
+        "FeaturedProjectDescription": "codeLabFeaturedConstellations.projectDescription",
+        "FeaturedProjectInstructions": "codeLabFeaturedConstellations.projectInstructions",
+        "FeaturedProjectImageName": "Constellations",
+        "FeaturedProjectBackgroundColor": "purple",
+        "FeaturedProjectTitleTextColor": "#ffffff",
+        "ProjectJSONFile": "constellations",
+        "StartDate": {
+            "Month": "4",
+            "Day": "13",
+            "Year": "2018"
+        },
+        "IsInvisible": "true"
+    },
+    {
+        "ProjectUUID": "5a050857-4bfe-4cfa-b743-2eacdbccee7b",
+        "ProjectName": "codeLabFeaturedGuessTheNumber.projectName",
+        "DASProjectName": "GuessTheNumber",
+        "VersionNum": "4",
+        "IsVertical": "true",
+        "FeaturedProjectDescription": "codeLabFeaturedGuessTheNumber.projectDescription",
+        "FeaturedProjectInstructions": "codeLabFeaturedGuessTheNumber.projectInstructions",
+        "FeaturedProjectImageName": "GuessTheNumber",
+        "FeaturedProjectBackgroundColor": "orange",
+        "FeaturedProjectTitleTextColor": "#ffffff",
+        "ProjectJSONFile": "guess_the_number",
+        "StartDate": {
+            "Month": "4",
+            "Day": "6",
+            "Year": "2018"
+        }
+    },
+    {
+        "ProjectUUID": "bcc27fd9-63ea-4808-b565-490793fb03f2",
+        "ProjectName": "codeLabFeaturedWakeUpCozmo.projectName",
+        "DASProjectName": "WakeUpCozmo",
+        "VersionNum": "4",
+        "IsVertical": "true",
+        "FeaturedProjectDescription": "codeLabFeaturedWakeUpCozmo.projectDescription",
+        "FeaturedProjectInstructions": "codeLabFeaturedWakeUpCozmo.projectInstructions",
+        "FeaturedProjectImageName": "WakeUpCozmo",
+        "FeaturedProjectBackgroundColor": "green",
+        "FeaturedProjectTitleTextColor": "#ffffff",
+        "ProjectJSONFile": "wake_up_cozmo",
+        "StartDate": {
+            "Month": "3",
+            "Day": "28",
+            "Year": "2018"
+        }
+    },
+    {
+        "ProjectUUID": "37e52fab-983f-49f9-83bd-90c284cd9f6b",
+        "ProjectName": "codeLabFeaturedPaddleBall.projectName",
+        "DASProjectName": "PaddleBall",
+        "VersionNum": "3",
+        "IsVertical": "true",
+        "FeaturedProjectDescription": "codeLabFeaturedPaddleBall.projectDescription",
+        "FeaturedProjectInstructions": "codeLabFeaturedPaddleBall.projectInstructions",
+        "FeaturedProjectImageName": "PaddleBall",
+        "FeaturedProjectBackgroundColor": "red",
+        "FeaturedProjectTitleTextColor": "#ffffff",
+        "ProjectJSONFile": "paddle_ball",
+        "StartDate": {
+            "Month": "3",
+            "Day": "21",
+            "Year": "2018"
+        }
+    },
+    {
+        "ProjectUUID": "03dfa788-73c1-4b93-9e2c-f105f855c6a4",
+        "ProjectName": "codeLabFeaturedDrivingInCircles.projectName",
+        "DASProjectName": "DrivingInCircles",
+        "VersionNum": "3",
+        "IsVertical": "true",
+        "FeaturedProjectDescription": "codeLabFeaturedDrivingInCircles.projectDescription",
+        "FeaturedProjectInstructions": "codeLabFeaturedDrivingInCircles.projectInstructions",
+        "FeaturedProjectImageName": "DrivingInCircles",
+        "FeaturedProjectBackgroundColor": "yellow",
+        "FeaturedProjectTitleTextColor": "#ffffff",
+        "ProjectJSONFile": "driving_in_circles",
+        "StartDate": {
+            "Month": "3",
+            "Day": "14",
+            "Year": "2018"
+        }
+    },
+    {
+        "ProjectUUID": "66eab634-e300-4b28-9633-9e65eba2c488",
+        "ProjectName": "codeLabFeaturedPotOGoldDetector.projectName",
+        "DASProjectName": "PotOGoldDetector",
+        "VersionNum": "3",
+        "IsVertical": "true",
+        "FeaturedProjectDescription": "codeLabFeaturedPotOGoldDetector.projectDescription",
+        "FeaturedProjectInstructions": "codeLabFeaturedPotOGoldDetector.projectInstructions",
+        "FeaturedProjectImageName": "PotOGoldDetector",
+        "FeaturedProjectBackgroundColor": "green",
+        "FeaturedProjectTitleTextColor": "#ffffff",
+        "ProjectJSONFile": "pot_o_gold_detector",
+        "StartDate": {
+            "Month": "3",
+            "Day": "7",
+            "Year": "2018"
+        }
+    },
+    {
+        "ProjectUUID": "3fab62c3-f268-4faa-8f68-db5bd67f11c1",
+        "ProjectName": "codeLabFeaturedComplimentGenerator.projectName",
+        "DASProjectName": "ComplimentGenerator",
+        "VersionNum": "3",
+        "IsVertical": "true",
+        "FeaturedProjectDescription": "codeLabFeaturedComplimentGenerator.projectDescription",
+        "FeaturedProjectInstructions": "codeLabFeaturedComplimentGenerator.projectInstructions",
+        "FeaturedProjectImageName": "ComplimentGenerator",
+        "FeaturedProjectBackgroundColor": "purple",
+        "FeaturedProjectTitleTextColor": "#ffffff",
+        "ProjectJSONFile": "compliment_generator",
+        "StartDate": {
+            "Month": "2",
+            "Day": "28",
+            "Year": "2018"
+        }
+    },
+    {
+        "ProjectUUID": "30ada9ed-efad-4eff-bca3-6facbddfd475",
+        "ProjectName": "codeLabFeaturedProject_RemoteControlRacer.projectName",
+        "DASProjectName": "RemoteControlRacer",
+        "VersionNum": "3",
+        "IsVertical": "true",
+        "FeaturedProjectDescription": "codeLabFeaturedProject_RemoteControlRacer.projectDescription",
+        "FeaturedProjectInstructions": "codeLabFeaturedProject_RemoteControlRacer.projectInstructions",
+        "FeaturedProjectImageName": "RemoteControlRacer",
+        "FeaturedProjectBackgroundColor": "purple",
+        "FeaturedProjectTitleTextColor": "#ffffff",
+        "ProjectJSONFile": "remote_control_racer",
+        "StartDate": {
+            "Month": "3",
+            "Day": "1",
+            "Year": "2018"
+        }
+    },
+    {
+        "ProjectUUID": "01ab9bf6-e0ae-4a6a-a94c-51ccadc42fc9",
+        "ProjectName": "codeLabFeaturedProject_ShakeIt.projectName",
+        "DASProjectName": "ShakeIt",
+        "VersionNum": "3",
+        "IsVertical": "true",
+        "FeaturedProjectDescription": "codeLabFeaturedProject_ShakeIt.projectDescription",
+        "FeaturedProjectInstructions": "codeLabFeaturedProject_ShakeIt.projectInstructions",
+        "FeaturedProjectImageName": "ShakeIt",
+        "FeaturedProjectBackgroundColor": "yellow",
+        "FeaturedProjectTitleTextColor": "#ffffff",
+        "ProjectJSONFile": "shake_it",
+        "StartDate": {
+            "Month": "2",
+            "Day": "22",
+            "Year": "2018"
+        }
+    },
+    {
+        "ProjectUUID": "c8b394a6-54e2-4347-ab4f-17cd5c641862",
+        "ProjectName": "codeLabFeaturedProject_PuttPutt.projectName",
+        "DASProjectName": "PuttPutt",
+        "VersionNum": "3",
+        "IsVertical": "true",
+        "FeaturedProjectDescription": "codeLabFeaturedProject_PuttPutt.projectDescription",
+        "FeaturedProjectInstructions": "codeLabFeaturedProject_PuttPutt.projectInstructions",
+        "FeaturedProjectImageName": "PuttPutt",
+        "FeaturedProjectBackgroundColor": "purple",
+        "FeaturedProjectTitleTextColor": "#ffffff",
+        "ProjectJSONFile": "putt_putt",
+        "StartDate": {
+            "Month": "2",
+            "Day": "15",
+            "Year": "2018"
+        }
+    },
+    {
+        "ProjectUUID": "7a3522a8-cd48-4c3b-9a6a-275ce4bffd65",
+        "ProjectName": "codeLabFeaturedProject_ValentinesCozmogram.projectName",
+        "DASProjectName": "ValentinesCozmogram",
+        "VersionNum": "3",
+        "IsVertical": "true",
+        "FeaturedProjectDescription": "codeLabFeaturedProject_ValentinesCozmogram.projectDescription",
+        "FeaturedProjectInstructions": "codeLabFeaturedProject_ValentinesCozmogram.projectInstructions",
+        "FeaturedProjectImageName": "ValentinesCozmogram",
+        "FeaturedProjectBackgroundColor": "green",
+        "FeaturedProjectTitleTextColor": "#ffffff",
+        "ProjectJSONFile": "valentines_cozmogram",
+        "StartDate": {
+            "Month": "2",
+            "Day": "8",
+            "Year": "2018"
+        }
+    },
+    {
+        "ProjectUUID": "467f67d5-9217-4e0c-9bf4-3896070f0318",
+        "ProjectName": "codeLabSampleProject_LaserSmile.projectName",
+        "DASProjectName": "LaserSmile",
+        "VersionNum": "3",
+        "IsVertical": "true",
+        "FeaturedProjectDescription": "codeLabFeaturedProject_LaserSmile.projectDescription",
+        "FeaturedProjectInstructions": "codeLabFeaturedProject_LaserSmile.projectInstructions",
+        "FeaturedProjectImageName": "LaserSmile",
+        "FeaturedProjectBackgroundColor": "red",
+        "FeaturedProjectTitleTextColor": "#ffffff",
+        "ProjectJSONFile": "laser_smile",
+        "StartDate": {
+            "Month": "1",
+            "Day": "29",
+            "Year": "2018"
+        }
+    },
+    {
+        "ProjectUUID": "43b2136b-759b-432c-b17b-938a4c3db9e1",
+        "ProjectName": "codeLabFeaturedProject_FiretruckAlarm.projectName",
+        "DASProjectName": "FiretruckAlarm",
+        "VersionNum": "3",
+        "IsVertical": "true",
+        "FeaturedProjectDescription": "codeLabFeaturedProject_FiretruckAlarm.projectDescription",
+        "FeaturedProjectInstructions": "codeLabFeaturedProject_FiretruckAlarm.projectInstructions",
+        "FeaturedProjectImageName": "FiretruckAlarm",
+        "FeaturedProjectBackgroundColor": "yellow",
+        "FeaturedProjectTitleTextColor": "#ffffff",
+        "ProjectJSONFile": "firetruck_alarm",
+        "StartDate": {
+            "Month": "1",
+            "Day": "9",
+            "Year": "2018"
+        }
+    },
+    {
+        "ProjectUUID": "8170ed3b-bfea-41f8-bc0a-b9ea75d4c523",
+        "ProjectName": "codeLabFeaturedProject_MagicFortuneTeller.projectName",
+        "DASProjectName": "MagicFortuneTeller",
+        "VersionNum": "3",
+        "IsVertical": "true",
+        "FeaturedProjectDescription": "codeLabFeaturedProject_MagicFortuneTeller.projectDescription",
+        "FeaturedProjectInstructions": "codeLabFeaturedProject_MagicFortuneTeller.projectInstructions",
+        "FeaturedProjectImageName": "MagicFortuneTeller",
+        "FeaturedProjectBackgroundColor": "green",
+        "FeaturedProjectTitleTextColor": "#ffffff",
+        "ProjectJSONFile": "magic_fortune_teller",
+        "StartDate": {
+            "Month": "12",
+            "Day": "26",
+            "Year": "2017"
+        }
+    },
+    {
+        "ProjectUUID": "ce67e190-c2d6-4e64-8084-5183eec50d94",
+        "ProjectName": "codeLabFeaturedProject_LightShow.projectName",
+        "DASProjectName": "LightShow",
+        "VersionNum": "3",
+        "IsVertical": "true",
+        "FeaturedProjectDescription": "codeLabFeaturedProject_LightShow.projectDescription",
+        "FeaturedProjectInstructions": "codeLabFeaturedProject_LightShow.projectInstructions",
+        "FeaturedProjectImageName": "LightShow",
+        "FeaturedProjectBackgroundColor": "red",
+        "FeaturedProjectTitleTextColor": "#ffffff",
+        "ProjectJSONFile": "light_show",
+        "StartDate": {
+            "Month": "12",
+            "Day": "1",
+            "Year": "2017"
+        }
+    },
+    {
+        "ProjectUUID": "cb8f716e-1b8f-4f37-af10-4fe30a8ec31b",
+        "ProjectName": "codeLabFeaturedProject_CubeWhack.projectName",
+        "DASProjectName": "CubeWhack",
+        "VersionNum": "3",
+        "IsVertical": "true",
+        "FeaturedProjectDescription": "codeLabFeaturedProject_CubeWhack.projectDescription",
+        "FeaturedProjectInstructions": "codeLabFeaturedProject_CubeWhack.projectInstructions",
+        "FeaturedProjectImageName": "CubeWhack",
+        "FeaturedProjectBackgroundColor": "green",
+        "FeaturedProjectTitleTextColor": "#ffffff",
+        "ProjectJSONFile": "cube_whack",
+        "StartDate": {
+            "Month": "1",
+            "Day": "16",
+            "Year": "2018"
+        }
+    },
+    {
+        "ProjectUUID": "29e14062-8cc5-480d-964f-37c62cf4a3a9",
+        "ProjectName": "codeLabFeaturedProject_TinyOrchestra.projectName",
+        "DASProjectName": "TinyOrchestra",
+        "VersionNum": "3",
+        "IsVertical": "true",
+        "FeaturedProjectDescription": "codeLabFeaturedProject_TinyOrchestra.projectDescription",
+        "FeaturedProjectInstructions": "codeLabFeaturedProject_TinyOrchestra.projectInstructions",
+        "FeaturedProjectImageName": "TinyOrchestra",
+        "FeaturedProjectBackgroundColor": "yellow",
+        "FeaturedProjectTitleTextColor": "#ffffff",
+        "ProjectJSONFile": "tiny_orchestra",
+        "StartDate": {
+            "Month": "12",
+            "Day": "19",
+            "Year": "2017"
+        }
+    },
+    {
+        "ProjectUUID": "91a410f2-669e-447f-8681-e5dd06dce233",
+        "ProjectName": "codeLabFeaturedProject_HotPotato.projectName",
+        "DASProjectName": "HotPotato",
+        "VersionNum": "3",
+        "IsVertical": "true",
+        "FeaturedProjectDescription": "codeLabFeaturedProject_HotPotato.projectDescription",
+        "FeaturedProjectInstructions": "codeLabFeaturedProject_HotPotato.projectInstructions",
+        "FeaturedProjectImageName": "HotPotato",
+        "FeaturedProjectBackgroundColor": "purple",
+        "FeaturedProjectTitleTextColor": "#e4e4e4",
+        "ProjectJSONFile": "hot_potato",
+        "StartDate": {
+            "Month": "1",
+            "Day": "2",
+            "Year": "2018"
+        }
+    },
+    {
+        "ProjectUUID": "608a3e7f-493c-41f0-ae83-2e4be14751d0",
+        "ProjectName": "codeLabFeaturedProject_CozmoFlies.projectName",
+        "DASProjectName": "CozmoFlies",
+        "VersionNum": "3",
+        "IsVertical": "true",
+        "FeaturedProjectDescription": "codeLabFeaturedProject_CozmoFlies.projectDescription",
+        "FeaturedProjectInstructions": "codeLabFeaturedProject_CozmoFlies.projectInstructions",
+        "FeaturedProjectImageName": "CozmoFlies",
+        "FeaturedProjectBackgroundColor": "red",
+        "FeaturedProjectTitleTextColor": "#ffffff",
+        "ProjectJSONFile": "cozmo_flies",
+        "IsInvisible": "true",
+        "IsEduUS": "true",
+        "IsEduFrance": "true",
+        "IsEduGerman": "true",
+        "IsEduJapan": "true"
+    }
+]
